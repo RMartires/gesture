@@ -1,4 +1,4 @@
-package com.example.rohit.accelerometer;
+package com.example.rohit.gesture;
 
 import android.app.Fragment;
 import android.os.Bundle;
