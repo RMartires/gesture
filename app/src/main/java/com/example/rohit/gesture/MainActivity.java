@@ -132,7 +132,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
 
         }//end of liner acc
 
-
+/*
         if(sensorEvent.sensor.getType()==Sensor.TYPE_GYROSCOPE){
 
 
@@ -159,7 +159,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
                     }
 
         }//end gyro
-
+*/
 
     }
 
